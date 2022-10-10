@@ -1,0 +1,44 @@
+BUDGET REPORT
+-----------------------------------------------------------------------
+CREDIT CARD BALANCES:
+
+Fidelity: $166.54
+Discover: $44.00
+
+-----------------------------------------------------------------------
+REMAINING CATEGORY BALANCES:
+
+Miscellaneous: $27.00
+Savings: $0.00
+Grocery: $101.55
+Gas: $24.90
+Entertainment: $62.97
+
+TOTAL: $216.42
+
+-----------------------------------------------------------------------
+PURCHASES:
+
+MISC: 
+
+$23.0       MISC                 Target          Debit Card     
+
+SAVINGS: 
+
+Transfer Completed
+
+GROCERY: 
+
+$23.45      GROCERY              Aldi            Discover       
+
+GAS: 
+
+$34.55      GAS                  QuickTrip       Fidelity       
+$20.55      GAS                  QuickTrip       Discover       
+
+ENTERTAINMENT: 
+
+$31.99      ENTERTAINMENT        Olive Garden    Fidelity       
+$100.0      ENTERTAINMENT        Target          Fidelity       
+$5.04       ENTERTAINMENT        Walmart         Debit Card     
+

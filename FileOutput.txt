@@ -1,0 +1,8 @@
+       BUDGET REPORT
+
+ CREDIT CARD BALANCES
+
+Hi, What's the day today? Fri Sep 16 10:43:41 CDT 2022.
+Here's an implementation of PrinWriter class for file writing.
+Hope Code Gym made it simpler for you to understand.
+One step at a time, and off you go!
